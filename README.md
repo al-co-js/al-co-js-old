@@ -3,8 +3,6 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
 <div align="center">
 
 :pencil2: 풀스택 개발자가 되기 위해 공부 중입니다.
