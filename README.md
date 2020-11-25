@@ -1,4 +1,4 @@
-> 좋아하는 일은 누구보다 열심히 하는 사람
+### 좋아하는 일은 누구보다 열심히 하는 사람
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
