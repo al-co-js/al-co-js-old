@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**al-co-js/al-co-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
+  [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
+  [![Gmail](https://img.shields.io/badge/-Gmail-282a36?logo=gmail)](mailto:shimjs81@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="right">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-co-js&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
