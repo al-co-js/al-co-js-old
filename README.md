@@ -15,5 +15,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
 [![Gmail](https://img.shields.io/badge/-Gmail-282a36?logo=gmail)](mailto:shimjs81@gmail.com)
+[![Kakao mail]](https://img.shields.io/badge/-Kakao mail-282a36?logo=kakao)(mailto:al.co.js@kakao.com)
 
 </div>
