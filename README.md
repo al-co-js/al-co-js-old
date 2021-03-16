@@ -10,7 +10,7 @@
 
 :sparkles: Next js, Express js에 관심이 많습니다.
 
-:heart: Rust, Go 등 low-level 언어에 애정이 있습니다.
+:heart: Rust, Go 등 다양한 언어에 애정이 있습니다.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
