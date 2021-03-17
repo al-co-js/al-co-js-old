@@ -9,9 +9,9 @@
 
 :pencil2: 풀스택 개발자가 되기 위해 공부 중입니다.
 
-:sparkles: Next js, Express js에 관심이 많습니다.
+:sparkles: Express.js, Koa.js에 관심이 많습니다.
 
-:heart: Rust, Go 등 다양한 언어에 애정이 있습니다.
+:heart: Golang을 열심히 공부하고 있습니다.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
