@@ -2,7 +2,7 @@
 ### :satisfied:발전할 때 가장 큰 기쁨을 얻는 사람:satisfied:
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
