@@ -3,7 +3,7 @@
 ---
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al-co-js&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al-co-js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
