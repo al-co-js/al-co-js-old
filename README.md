@@ -2,7 +2,7 @@
 ### :satisfied:발전할 때 가장 큰 기쁨을 얻는 사람:satisfied:
 ---
 
-<div align="center" display="flex" flex-direction="colmun">
+<div align="center" style="display: flex; flex-direction: column;">
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![al-co-js's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
