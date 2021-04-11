@@ -1,5 +1,5 @@
-### :fire:좋아하는 일은 누구보다 열심히 하는 사람:fire:
-### :satisfied:발전할 때 가장 큰 기쁨을 얻는 사람:satisfied:
+### :fire: 좋아하는 일은 누구보다 열심히 하는 사람 :fire:
+### :satisfied: 발전할 때 가장 큰 기쁨을 얻는 사람 :satisfied:
 ---
 
 <div align="center" style="display: flex; flex-direction: column;">
@@ -15,7 +15,9 @@
 
 :sparkles: Express.js, Koa.js에 관심이 많습니다.
 
-:heart: Golang을 열심히 공부하고 있습니다.
+:fire: Golang을 열심히 공부하고 있습니다.
+
+:heart: 최신 트렌드를 사랑합니다.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
