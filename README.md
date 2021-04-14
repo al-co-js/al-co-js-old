@@ -13,9 +13,9 @@
 
 :pencil2: 풀스택 개발자가 되기 위해 공부 중입니다.
 
-:sparkles: Express.js, Koa.js에 관심이 많습니다.
+:sparkles: 최신 기술, 자동화에 관심이 많습니다.
 
-:fire: Golang을 열심히 공부하고 있습니다.
+:fire: 다양하 언어를 열심히 공부하고 있습니다.
 
 :heart: 최신 트렌드를 사랑합니다.
 
