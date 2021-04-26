@@ -1,5 +1,5 @@
-### :fire: 좋아하는 일을 누구보다 열심히 하는 사람 :fire:
-### :satisfied: 발전할 때 가장 큰 기쁨을 얻는 사람 :satisfied:
+### 안녕하세요 👋
+### 끊임없이 성장하는 개발자, 심재성입니다.
 ---
 
 <div align="center" style="display: flex; flex-direction: column;">
