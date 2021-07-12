@@ -10,6 +10,11 @@
 </div>
 
 <div align="center">
+  
+---
+## Now Playing 🎧
+
+[![Spotify](https://novatorem-djqism1xm-jaeseong-cs.vercel.app/api/spotify)](https://open.spotify.com/user/3136t5ieogpd3h6nh27h3v2e5sf4)
 
 :pencil2: 풀스택 개발자가 되기 위해 공부 중입니다.
 
@@ -23,10 +28,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
 [![Gmail](https://img.shields.io/badge/-Gmail-282a36?logo=gmail)](mailto:shimjs81@gmail.com)
 [![KakaoMail](https://img.shields.io/badge/-Kakao-282a36?logo=kakao)](mailto:al.co.js@kakao.com)
-
----
-## Now Playing 🎧
-
-[![Spotify](https://novatorem-djqism1xm-jaeseong-cs.vercel.app/api/spotify)](https://open.spotify.com/user/3136t5ieogpd3h6nh27h3v2e5sf4)
 
 </div>
