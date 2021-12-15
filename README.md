@@ -11,6 +11,9 @@
 
 <div align="center">
   
+  
+[![wakatime](https://wakatime.com/badge/user/873273bc-74d7-4690-88fd-253eea664867.svg)](https://wakatime.com/@873273bc-74d7-4690-88fd-253eea664867)
+  
 :pencil2: 풀스택 개발자가 되기 위해 공부 중입니다.
 
 :sparkles: 최신 기술, 자동화에 관심이 많습니다.
@@ -30,5 +33,3 @@
 [![KakaoMail](https://img.shields.io/badge/-Kakao-282a36?logo=kakao)](mailto:al.co.js@kakao.com)
 
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/873273bc-74d7-4690-88fd-253eea664867.svg)](https://wakatime.com/@873273bc-74d7-4690-88fd-253eea664867)
