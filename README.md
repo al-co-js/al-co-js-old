@@ -28,5 +28,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
 [![Gmail](https://img.shields.io/badge/-Gmail-282a36?logo=gmail)](mailto:shimjs81@gmail.com)
 [![KakaoMail](https://img.shields.io/badge/-Kakao-282a36?logo=kakao)](mailto:al.co.js@kakao.com)
+[![wakatime](https://wakatime.com/badge/user/873273bc-74d7-4690-88fd-253eea664867.svg)](https://wakatime.com/@873273bc-74d7-4690-88fd-253eea664867)
 
 </div>
