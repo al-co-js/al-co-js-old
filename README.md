@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; flex-direction: column;">
 
 [![al-co-js's Github Stats](https://github-readme-stats.vercel.app/api?username=al-co-js&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![al-co-js's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al_co_js)](https://github.com/anuraghazra/github-readme-stats)
+[![al-co-js's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al_co_js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![al-co-js's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
