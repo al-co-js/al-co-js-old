@@ -12,7 +12,7 @@
   
 <div>    
   
-[![al-co-js's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-co-js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![al-co-js's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-co-js&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
